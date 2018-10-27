@@ -3,3 +3,6 @@ penitration testing
 metaspolitable linux
 android hacking
 n-map
+shodan.io
+google hacker database
+pen world
