@@ -1,3 +1,5 @@
+#SOME FEW HACKING TIPS
+
 web hacking
 penitration testing
 metaspolitable linux
